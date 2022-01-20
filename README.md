@@ -1,4 +1,4 @@
-Uses several of Flutter's inbuilt widgets. Uses a self-defined request - response architecture to communicate with firebase backend instead of the FlutterFire API.
+Uses several of Flutter's inbuilt widgets, Prodvider for state management. Also uses a self-defined request - response architecture to communicate with firebase backend instead of the FlutterFire API.
 The following functions are available:
 - Login and Registration (Through Firebase)
 - Shop Dashboard (Show Options: All/Favorites)
